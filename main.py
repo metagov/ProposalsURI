@@ -49,6 +49,7 @@ def api_documentation():
         <p>
             <strong>cursor</strong> - Optional. A cursor for pagination.
         </p>
+        <p> Example: https://proposalsuri.onrender.com/api/v1/boardroom/proposals/10/ens?cursor=<cursor> </p>
     </body>
     </html>
     """
