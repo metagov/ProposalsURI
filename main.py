@@ -33,7 +33,7 @@ def api_documentation():
         <title>DAOstar Proposals URI API Documentation</title>
     </head>
     <body>
-        <h1> API Documentation</h1>
+        <h1>DAOstar Proposal URI API Documentation</h1>
         <h2>Endpoints</h2>
         <ul>
             <li>
